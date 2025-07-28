@@ -23,9 +23,9 @@ Testimonial Scraper
 # How to Run the Code
 1. Make sure you have Python 3.11 installed
 2. Install required libraries:
-   ```bash pip install selenium undetected-chromedriver pandas```
+   ```pip install selenium undetected-chromedriver pandas```
 3. Run the script using:
-   ```bash python testimonial-scraper.py```
+   ```python testimonial-scraper.py```
 4. The extracted data will be saved to the file named "testimonials.xlsx"
 
 # Notes
